@@ -1,0 +1,12 @@
+BillID:101 Customer:Rahul
+Laptop,1,50000
+Mouse,2,500
+----
+BillID:101 Customer:Rahul
+Laptop,1,50000
+Mouse,2,500
+----
+BillID:101 Customer:Rahul
+Laptop,1,50000
+Mouse,2,500
+----
